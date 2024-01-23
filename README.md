@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaliEhba
-- 👀 I’m interested in Elliptic Curves Cryptography (ECC) and quantum computing
-- 🌱 I’m currently learning Elliptic Curves Factorization Method
-- 💞️ I’m looking to collaborate on elliptic curves cryptography
+- 👀 I’m interested in Isogeny-based Cryptography and Postquantum Cryptography
+- 🌱 I’m currently learning Supersingular Isogeny Graphs of Elliptic Curves
+- 💞️ I’m looking to collaborative work
 - 📫 How to reach me: vincent.gali@aims-cameroon.org
 
 <!---
